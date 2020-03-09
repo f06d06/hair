@@ -1,4 +1,7 @@
-html { font-size: calc(1em + 1vw) }
+html 
+{ 
+  font-size: calc(1em + 1vw) 
+}
 body
 {
   height: auto;
@@ -8,7 +11,6 @@ body
   height:100%;
   margin: 0;
 }
-
 .header
 {
  width: 100%;
@@ -18,20 +20,16 @@ body
  font-family: 'Qwigley', cursive; 
  text-align: center;
  margin: 0;
-
 }
-
 .subhead
 {
   color: rgb(255, 255, 255);
   font-size: 150%;
   text-align: center;
   font-family: 'Niramit', sans-serif;
-  color: rgba(255, 255, 255, 0.342);
+  color: rgba(245, 222, 179, 0.568);
   margin: 0;
- 
-  
-}
+ }
 
 .box
 {
