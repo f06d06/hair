@@ -30,11 +30,12 @@ body
   font-family: 'Niramit', sans-serif;
   color: rgba(245, 222, 179, 0.568);
   margin: 0;
+text-shadow: 2px 2px #f06d06;
+
  }
 
 .box
 {
-  width: 100%;
-  height: 550px;
+  position: absolute; top: 0; left: 0; height: 100%; width: 100%;
 }
 
