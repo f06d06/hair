@@ -1,3 +1,4 @@
+html { font-size: calc(1em + 1vw) }
 body
 {
   height: auto;
@@ -5,6 +6,7 @@ body
   background-image: linear-gradient(rgb(67, 68, 73), #000); 
   background-attachment:fixed;
   height:100%;
+  margin: 0;
 }
 
 .header
@@ -15,20 +17,22 @@ body
  margin-left: auto;
  margin-right: auto;
  margin-top: auto;
- font-size: 1000%;
+ font-size: 500%;
  font-family: 'Qwigley', cursive; 
  text-align: center;
+ margin: 0;
 
 }
 
 .subhead
 {
-  color: white;
-  font-size: 300%;
+  color: rgb(255, 255, 255);
+  font-size: 150%;
   text-align: center;
   font-family: 'Niramit', sans-serif;
-  color: rgba(255, 240, 200, 0.459);
-  margin: -7%;
+  color: rgba(255, 255, 255, 0.342);
+  margin: 0;
+ 
   
 }
 
